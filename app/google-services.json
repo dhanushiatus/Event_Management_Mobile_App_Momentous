@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579479424630",
+    "project_id": "mobileapplication-momentous",
+    "storage_bucket": "mobileapplication-momentous.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579479424630:android:0265102f059f4cc4b09957",
+        "android_client_info": {
+          "package_name": "com.example.mobileapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0qM7Uli4aYu3_6nCGwBidRTEd-oIQfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

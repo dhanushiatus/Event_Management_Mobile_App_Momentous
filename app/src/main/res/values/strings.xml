@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MobileApplication</string>
+
+    <string name="login">Login</string>
+    <string name="consult_only_with_a_ndoctor_you_trust">Consult only with a\n<font color='#304481'>Doctor you trust</font></string>
+    <string name="momentous_simplifies_event_planning_by_managing_all_the_details_checking_venue_availability_and_offering_real_time_navigation_to_make_every_event_unforgettable_and_hassle_free">Momentous simplifies event planning by managing all the details, checking venue availability, and offering real-time navigation to make every event unforgettable and hassle-free.</string>
+    <string name="an_event_is_not_just_about_the_celebration_it_s_about_creating_memories_that_last_a_lifetime">“An event is not just about the celebration, it\'s about creating memories that last a lifetime.”</string>
+    <string name="real_time_venue_availability_amp_booking"><![CDATA[• Real-time Venue Availability & Booking]]></string>
+    <string name="easy_event_scheduling_amp_calendar_integration"><![CDATA[• Easy Event Scheduling & Calendar Integration]]></string>
+    <string name="navigation_to_event_locations_in_real_time">• Navigation to Event Locations in Real-Time</string>
+    <string name="personalized_event_planning_amp_customization"><![CDATA[• Personalized Event Planning & Customization]]></string>
+    <string name="budget_tracking_amp_cost_estimation"><![CDATA[• Budget Tracking & Cost Estimation]]></string>
+    <string name="search_anything">Search anything..</string>
+    <string name="momentous">Momentous</string>
+    <string name="we_would_like_to_grab_our_first_booking">We Would Like to Grab our First Booking</string>
+    <string name="add_new_event_booking">Add New Event Booking</string>
+    <string name="excellent_food_perfect_ambiance_and_unparalleled_service">Excellent food, perfect ambiance and unparalleled service.</string>
+    <string name="indulge_in_culinary_perfection_surrounded_by_elegance_and_unparalleled_hospitality">Indulge in culinary perfection, surrounded by elegance and unparalleled hospitality.</string>
+    <string name="escape_the_ordinary_we_are_at_your_door_step_24_7">Escape the ordinary. We are at your door step 24/7</string>
+    <string name="wedding_or_party">Wedding or party</string>
+    <string name="hi_jagapathy_dhanushkar">Hi, Jagapathy Dhanushkar</string>
+    <string name="how_are_you_today">How are you Today?</string>
+    <string name="jagapathy_dhanushkar">Jagapathy_Dhanushkar</string>
+    <string name="hi_riya_kannan">Hi Riya Kannan</string>
+    <string-array name="function_types">
+        <item>Wedding</item>
+        <item>Conference</item>
+        <item>Birthday Party</item>
+        <item>Corporate Event</item>
+    </string-array>
+</resources>

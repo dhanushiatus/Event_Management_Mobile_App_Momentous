@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mobileapplication">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo_event"
+        android:label="Momentous"
+        android:roundIcon="@drawable/custom_button"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MobileApplication"
+        tools:targetApi="31">
+
+        <!-- Default launcher activity -->
+        <activity android:name=".UserOnb1"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".UserOnb2"/>
+        <activity android:name=".UserOnb3"/>
+        <activity android:name=".Loginpage"/>
+        <activity android:name=".SignupPage"/>
+        <activity android:name=".ProfilePage"/>
+        <activity android:name=".HomeActivity"/>
+        <activity android:name=".Category"/>
+        <activity android:name=".Events"/>
+        <activity android:name=".Favourite"/>
+        <activity android:name=".Subscription"/>
+        <activity android:name="Settings"/>
+
+    </application>
+
+</manifest>
